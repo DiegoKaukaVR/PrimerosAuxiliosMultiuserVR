@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 18c9d1310debef34cbd19c6ee31a3080
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_arquitectura
+    second: {fileID: 2100000, guid: 7fef72deaf9632e46b855d0f46a5af78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_bano
+    second: {fileID: 2100000, guid: f7202daabb15e05498fed9dd0eb5e235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_base_telefono
+    second: {fileID: 2100000, guid: f70f9bf47c229b548a88d575445b2b7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_cajaguantes
+    second: {fileID: 2100000, guid: d078776a3f41a8241bc18ade96f9cf75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_cama
+    second: {fileID: 2100000, guid: 7cb27337608d1c842b668fbeb85dd51a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_caudalimetro_azul
+    second: {fileID: 2100000, guid: b70c9108e69107445af1e0e2a4f53522, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_caudalimetro_blanco
+    second: {fileID: 2100000, guid: 9b296e091fbe6a94aba3a526b672d93b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_caudalimetro_bronce1
+    second: {fileID: 2100000, guid: 544fd263d1538824d9d4306fb0e63212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_caudalimetro_cristal
+    second: {fileID: 2100000, guid: 42d48c2263b3180408010090244dcd3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_caudalimetro_metal
+    second: {fileID: 2100000, guid: 39c9f0c0528b96a4b8c1c39ff9cc08d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_caudalimetro_pegatina
+    second: {fileID: 2100000, guid: 12e868390fde60644b19f8433c205817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_caudalimetro_tomaoxigeno
+    second: {fileID: 2100000, guid: 2e1a7a3f6f3a3ef44a6a869a1c4d88ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_caudalimetro_tubo
+    second: {fileID: 2100000, guid: 1014a88a0600d5a419826c41cc632d0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_caudalimetro_tubonumeros
+    second: {fileID: 2100000, guid: 45b7f467bc133164cbdd281ddcad94ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_clorhexidina_blanco
+    second: {fileID: 2100000, guid: 6186b323e7c7bd84baf90140a4c308e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_clorhexidina_blancolineas
+    second: {fileID: 2100000, guid: 77d490fe474911e4a82c44542cd62289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_colchon
+    second: {fileID: 2100000, guid: cc66a37b5028d2740b76f0cf9d3311da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_cristal_carro
+    second: {fileID: 2100000, guid: 1a546c608a1e2f543a05a4f4aec6cb36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_elementos_pared
+    second: {fileID: 2100000, guid: f25112a89438cf0409cf20be97fa5331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_empapador
+    second: {fileID: 2100000, guid: bd09d822579a1b643bd52d8a4d21fcb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_guantes
+    second: {fileID: 2100000, guid: 984618268b6d1b945ab8feb085822630, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_lampara
+    second: {fileID: 2100000, guid: 9f9728fdff5f5984aa2514c9edf28e92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_manta
+    second: {fileID: 2100000, guid: 21cde32452ad9ee4fa2360b558d7c62e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_manta1
+    second: {fileID: 2100000, guid: 9c016534873787e4c9b80fcda1bce3c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_mantita
+    second: {fileID: 2100000, guid: df55ff81c7022f246b8eed5b4e5c93fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_metal_carrito
+    second: {fileID: 2100000, guid: 906bfec00deed934bbf8af153fa432bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_metal_claro
+    second: {fileID: 2100000, guid: 57e3dbd111272fb438a0b3eca480ccfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_metal_mesa
+    second: {fileID: 2100000, guid: 8974300877be2ae40b13d4d307189e38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_metal_papelera
+    second: {fileID: 2100000, guid: 8df062b732b3d9f479c2de7c5373ac11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_metal_ventana
+    second: {fileID: 2100000, guid: cafc373e3a501334b8ccac1d49c09b85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_muebles_habitacion
+    second: {fileID: 2100000, guid: 543feff11aa76a242a73eaea98f8d251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_negro
+    second: {fileID: 2100000, guid: 12d0b3a124de5994f9075b2e2ec1e580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_paredes
+    second: {fileID: 2100000, guid: 95c111957c981f0448433753466e04a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_pegatinaCavilon
+    second: {fileID: 2100000, guid: 4de81f7987406ae43982de45933512d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_planta
+    second: {fileID: 2100000, guid: 49803b8c0ef3b1b40982492a7664c182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_plataforma_bebe
+    second: {fileID: 2100000, guid: 092ecb2ac8084d74fb4cace09602c36f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_puertas
+    second: {fileID: 2100000, guid: 91cf05b73fd55b24b861255ff7735ebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_radiador
+    second: {fileID: 2100000, guid: c6726147f360274459f50a65ac5b834f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_ruedas_carrito
+    second: {fileID: 2100000, guid: b5c99bba55c41674c9e0ae37c88c936d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_ruedas_carrito1
+    second: {fileID: 2100000, guid: 2dc8a61336400574c93e3327024cddde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_sillaruedas_metal
+    second: {fileID: 2100000, guid: 4f639aa73e19c414d9524bb6d08f3794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_sillaruedas_negro
+    second: {fileID: 2100000, guid: cb569a4016bc7a14da5be047273285c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_sofa_metal
+    second: {fileID: 2100000, guid: 1596e9b553807be479c63c821c1ac332, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_sofa_metal1
+    second: {fileID: 2100000, guid: cd15cc8e3dfccec4a8b1247f654a3feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_suero_percha
+    second: {fileID: 2100000, guid: f098f0257a39da64aa602fbdf88d2513, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_suero_transparente
+    second: {fileID: 2100000, guid: d0241a3d71edcfa4c9282a0d20e77abf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_telefono
+    second: {fileID: 2100000, guid: be1f95700ba5da645843e1c37ba19c9e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bed_1_2T_Bed_1_AlbedoTransparency
+    second: {fileID: 2800000, guid: 59a5bfa0911bee4498cb552b850da84a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bed_1_2T_Matrace_AlbedoTransparency
+    second: {fileID: 2800000, guid: 0b7bf18f12c93a94c81714a6cf71c0b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MAT_empapador_Base_Color 2
+    second: {fileID: 2800000, guid: ab34d4c16c41a184aa0d3f3e671a5310, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MueblesSuelo_mueblesHabitacion_AlbedoTransparency
+    second: {fileID: 2800000, guid: 549ccbc954ad5cd4aa5ff4732265c8a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: O2
+    second: {fileID: 2800000, guid: a5222d40f4f99a440a47b74f1347516c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TEXT_Clorhexidina_Bactiseptic_ALB
+    second: {fileID: 2800000, guid: bb862ccd062b29947b65c3860c804956, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TEXT_cajaguantes_ALB
+    second: {fileID: 2800000, guid: 9a9830dbc4116b749a06397a1b1a4093, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TEXT_guantes_ALB
+    second: {fileID: 2800000, guid: bcc6549200cb33e44a038105aa341df3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall_Wall_AlbedoTransparency
+    second: {fileID: 2800000, guid: 5386bd1037923364db834cf8f8f95fd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mat_arquitectura_Base_Color 1
+    second: {fileID: 2800000, guid: f366d9ec0e0a4c6408c65ff60fccf1fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mat_cosasPared_Base_Color
+    second: {fileID: 2800000, guid: ba0516d4e2176224aa8ffdbcba35998c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: percha_suero_mat_percha_suero_AlbedoTransparency
+    second: {fileID: 2800000, guid: d35b0deb7d32c4647b9832502a441eaa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: percha_suero_mat_transparente_suero_AlbedoTransparency
+    second: {fileID: 2800000, guid: 64fc1ae507b129f4f9ea26a5fc2890d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: puerta04_mat_puertas02_AlbedoTransparency
+    second: {fileID: 2800000, guid: c180dca28a2352b488fdc8cef5757047, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: radiador_mat_radiador_AlbedoTransparency
+    second: {fileID: 2800000, guid: 5ca4802090a3deb4289fc7aaceca0e94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_telefono
+    second: {fileID: 2800000, guid: 7c7d7dede8f8eef40b8a03725b61f7d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: texturizar_objetos_banio_mat_bano_Albedo
+    second: {fileID: 2800000, guid: c34a1a6515df147479999a1f9fe2f953, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: uv_ETIQUETA CAUDALIMERO copia
+    second: {fileID: 2800000, guid: 2ef9513bc88eff549ae46b87309650f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: uv_ETIQUETA_TOMAOXIGENO
+    second: {fileID: 2800000, guid: 9b471bf3599919c4faaf00608939d9b4, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

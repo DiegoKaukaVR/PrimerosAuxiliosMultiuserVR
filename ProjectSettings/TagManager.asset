@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hand
+  - Cepillo
+  - Estropajo
+  - Fregadero
+  - Water
+  - HerramientaEsterilizacion
+  - Pistola
+  - Aire
+  - CepilloTubular
+  - ContenedorCepilloTubular
+  - Toalla
+  - ContenedorCepilloNormal
+  - SondaExploracion
+  - EspejoIntraoral
+  - Sillon
+  - Pinza
+  - PlacaDigital
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Escenario
+  - Water
+  - UI
+  - Grabable
+  - Ground
+  - Player
+  - Agarre
+  - GrabIgnoreInterior
+  - SecondGrab
+  - Finger
+  - Maniqui
+  - Rama
+  - Head
+  - Hands
+  - Interactable
+  - PlayerCollision
+  - Trigger
+  - UI Overlap
+  - PuntoMovilidad
+  - TP
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

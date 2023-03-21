@@ -1,0 +1,6 @@
+Efecto bajo del agua:
+
+Cubo con degradado de depth para rellenar fondo.
+Fog de la escena.
+Chromatic aberration
+Vignette azul.

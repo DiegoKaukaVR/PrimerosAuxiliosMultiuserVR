@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Lobby.cs.meta
+guid: d4810229812fbfd48ad7f194c3cc7abd
+========
+guid: 2ad313829acd367448c55989f0806f2a
+>>>>>>>> Artem:Assets/_Kauka/_Scripts/Movilidad/BodyTracker.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

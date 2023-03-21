@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: fc1f44d6485b579489e2fddcb82d327b
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Fonendoscopio
+    second: {fileID: 2100000, guid: 1b26539932a100c4d86cd5f50b9c7623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_arquitectura
+    second: {fileID: 2100000, guid: aa2fe66767c56aa499feb5df0fda0ed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_bandejas
+    second: {fileID: 2100000, guid: 60abc968be033334e80576bbac7db65c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_bandejas1
+    second: {fileID: 2100000, guid: feb46856ea976df41a01ef59edd85196, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_bano
+    second: {fileID: 2100000, guid: cdd482662e22dbf4483a4cafcc640c1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_bano1
+    second: {fileID: 2100000, guid: 1f4910a9bc5da4040a03794ce713aa45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_cajamascarillas
+    second: {fileID: 2100000, guid: bd3c3c241480f1942b3713cca33cf7dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_esponjas_desechables
+    second: {fileID: 2100000, guid: 6cea6f2c98cc3504581f39899b9ff6dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_guante1
+    second: {fileID: 2100000, guid: 20ce11b9306038e4ba119b6ba5cbc1e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_jabonmanos
+    second: {fileID: 2100000, guid: e3f7312a54ac53c48b5357a0ba4dbde9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_jabonmanos1
+    second: {fileID: 2100000, guid: 3c78c1190530b0d47ae00b97ffce918e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_jabonmanos_etiqueta
+    second: {fileID: 2100000, guid: eab399f09cf8b8d48ab8d731d5839078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_lamparas
+    second: {fileID: 2100000, guid: daa553879baed86439587efdbde30c43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_liquidos
+    second: {fileID: 2100000, guid: 065f4c493587b1b41a3e4cef40a34544, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_metal_techo
+    second: {fileID: 2100000, guid: 8d0416f22db2cc94ea2f8ea277d75f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_muebles_salacuras
+    second: {fileID: 2100000, guid: 2c66281943bc29c46baba0734e84cec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_objetos_esterilizacion_2
+    second: {fileID: 2100000, guid: f6702af9353c2b146adb6ec5016df984, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_objetos_recien_nacidos
+    second: {fileID: 2100000, guid: 4fefb83a945b20f42a531cf1daf1c790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_objetos_recien_nacidos1
+    second: {fileID: 2100000, guid: 3af286ee9e384df4c8a7f316b4e4e243, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_objetos_recien_nacidos2
+    second: {fileID: 2100000, guid: 7ea2a53e8af2ac847afca3751659d51c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_objetos_recien_nacidos_transparente
+    second: {fileID: 2100000, guid: fb05eb8ee19edec4894f4d19bd9a2da7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_objetos_recien_nacidos_transparente1
+    second: {fileID: 2100000, guid: f37f236a43d806449b80c874cdca63a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_objetos_salacuras
+    second: {fileID: 2100000, guid: 1312405b902566c4f8b55bdef7f28410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_pantalla_tablet
+    second: {fileID: 2100000, guid: 0f8da2486f0119249b6982393d28eacd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_puertas
+    second: {fileID: 2100000, guid: 1b381c1efd970a441be1f4192c89e641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface24
+    second: {fileID: 2100000, guid: d02c8260bea7f5e4fbcec990cd17ba86, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A_Color
+    second: {fileID: 2800000, guid: f0761cc9c7bfc314199a9551f782126a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MAT_Fonendoscopio_Base_Color
+    second: {fileID: 2800000, guid: 5746a0bb6df7e254db876cb304758c5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MAT_Glass_50_Albedo
+    second: {fileID: 2800000, guid: 359dc0b240dea2a46b6c8c25267402fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MAT_Solido_Albedo
+    second: {fileID: 2800000, guid: d4a09124253bd2e41823b59b50e048cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Objetos_esterilizacion_2_MAT_objetos_esterilizacion_2_Albedo
+    second: {fileID: 2800000, guid: 4cb31d8121fd1984f9ea3445e73b0056, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PANTALLA_Albedo
+    second: {fileID: 2800000, guid: 931c156a630b0d24e89932b54ff1b942, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TEXT_cajaguantes_ALB
+    second: {fileID: 2800000, guid: 1667d294745a73b48b669506321495fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TEXT_guantes_ALB
+    second: {fileID: 2800000, guid: 8beff8c3e9dde0a4f8732b6299269b19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: esponjas_lambert1_Albedo
+    second: {fileID: 2800000, guid: 52def0edfea092e4a83566b7d9de622b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: grupo_objetos_recienNacidos_MAT_Transparente_Albedo
+    second: {fileID: 2800000, guid: 456f15ef3daef9043a89a97e68b1fc11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: grupo_objetos_recienNacidos_lambert1_Albedo
+    second: {fileID: 2800000, guid: bae260ffa1ede334d899917551b9b2a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: muebles_Color
+    second: {fileID: 2800000, guid: 7eb04668f4d5c564589bba564d6238ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paredes_salacuras_MAT_arquitectura_Albedo
+    second: {fileID: 2800000, guid: cd3a8ba874a53044ab91514171678a72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: puerta04_mat_puertas02_AlbedoTransparency
+    second: {fileID: 2800000, guid: 7783ae48b6da4b846a0b039a0940e9e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_aquacell_nuevo
+    second: {fileID: 2800000, guid: 5f78c53774dcd954e92e15f13f414f68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: text_jabon
+    second: {fileID: 2800000, guid: f683519771126bc4db5771b321bcd4eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: texturizar_objetos_banio_mat_bano_Albedo
+    second: {fileID: 2800000, guid: aad8349df422aee49932240cfd451638, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
